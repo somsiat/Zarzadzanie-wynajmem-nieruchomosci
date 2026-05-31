@@ -67,7 +67,6 @@
 
 ### Główne funkcjonalności
 
-<<<<<<< HEAD
 ### Frontend
 - **React 19** - biblioteka UI
 - **Vite** - narzędzie do budowania
@@ -92,7 +91,7 @@
 
 ---
 
-## 📁 Struktura projektu
+## Struktura projektu
 
 ```
 Zarzadzanie-wynajmem-nieruchomosci/
